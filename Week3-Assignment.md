@@ -2,7 +2,8 @@
 
 ## 🚀 Objective
 Build a responsive React application using JSX and Tailwind CSS that demonstrates component architecture, state management, hooks usage, and API integration.
-
+## screenshot
+![Hassan Task App Screenshot](./Task%20app.png)
 ## 📂 Tasks
 
 ### Task 1: Project Setup
